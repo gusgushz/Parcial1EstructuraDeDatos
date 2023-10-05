@@ -1,0 +1,16 @@
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.Form1.resources
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Parcial1\Parcial1\bin\Debug\net6.0-windows\Parcial1.exe
+C:\Users\gusta\source\repos\Parcial1\Parcial1\bin\Debug\net6.0-windows\Parcial1.deps.json
+C:\Users\gusta\source\repos\Parcial1\Parcial1\bin\Debug\net6.0-windows\Parcial1.runtimeconfig.json
+C:\Users\gusta\source\repos\Parcial1\Parcial1\bin\Debug\net6.0-windows\Parcial1.dll
+C:\Users\gusta\source\repos\Parcial1\Parcial1\bin\Debug\net6.0-windows\Parcial1.pdb
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.dll
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\refint\Parcial1.dll
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.pdb
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\Parcial1.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Parcial1\Parcial1\obj\Debug\net6.0-windows\ref\Parcial1.dll
